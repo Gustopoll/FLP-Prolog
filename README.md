@@ -64,4 +64,4 @@ Automatické testy sa spúštaju nasledovne:
 ./test.sh [program] [testy]
 ./test.sh flp20-log ./tests/ - spustia sa automatické testy
 ```
-pričom parameter [program] je názor programu, ktorý sa bude testovať a [testy] je cesta ku ložke, kde sú umiestené testy
+pričom parameter [program] je názor programu, ktorý sa bude testovať a [testy] je cesta ku položke, kde sú umiestené testy
